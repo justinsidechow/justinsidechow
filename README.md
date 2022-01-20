@@ -1,13 +1,11 @@
-<h1 align="center">Hi 👋, I'm Justin Chow</h1>
-<h3 align="center">Full-Stack Software Engineer programming the future one line at a time.</h3>
+<h1 align="center">Hi, I'm Justin Chow</h1>
+<h3 align="center">A Software Engineer programming the future one line at a time.</h3>
 
-- 🔭 I’m currently working on [luckerdogs](https://github.com/justinsidechow/luckerdogs)
+- I’m currently working on [luckerdogs](https://github.com/justinsidechow/luckerdogs)
 
-- 🌱 I’m currently learning **Django, React, Javascript, Python**
+- All of my projects are available at [https://github.com/justinsidechow](https://github.com/justinsidechow)
 
-- 👨‍💻 All of my projects are available at [https://github.com/justinsidechow](https://github.com/justinsidechow)
-
-- 📫 How to reach me **justinsidechow@gmail.com**
+- How to reach me **justinsidechow@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
