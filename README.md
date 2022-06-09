@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Justin Chow</h1>
 <h3 align="center">A Software Engineer programming the future one line at a time.</h3>
 
-- I’m currently working on [luckerdogs](https://github.com/justinsidechow/luckerdogs)
+- I’m currently working on updating [justinsidechow-app](https://github.com/justinsidechow/justinsidechow-app)
 
 - All of my projects are available at [https://github.com/justinsidechow](https://github.com/justinsidechow)
 
